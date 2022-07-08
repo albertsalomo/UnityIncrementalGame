@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">499512750186</string>
+  <string name="google_storage_bucket" translatable="false">albert-salomo-incrementalgame.appspot.com</string>
+  <string name="project_id" translatable="false">albert-salomo-incrementalgame</string>
+  <string name="google_api_key" translatable="false">AIzaSyCw8owIo_3cwZ2vbwD11eMTpiwxjOP7oh4</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCw8owIo_3cwZ2vbwD11eMTpiwxjOP7oh4</string>
+  <string name="google_app_id" translatable="false">1:499512750186:android:3177eded1f5283c7601a13</string>
+  <string name="default_web_client_id" translatable="false">499512750186-3gkmst5p903358bbdjpu6o9e6i7vdl70.apps.googleusercontent.com</string>
+</resources>

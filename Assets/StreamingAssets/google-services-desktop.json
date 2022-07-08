@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499512750186",
+    "project_id": "albert-salomo-incrementalgame",
+    "storage_bucket": "albert-salomo-incrementalgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499512750186:android:3177eded1f5283c7601a13",
+        "android_client_info": {
+          "package_name": "com.Almo.IncrementalGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499512750186-3gkmst5p903358bbdjpu6o9e6i7vdl70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8owIo_3cwZ2vbwD11eMTpiwxjOP7oh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499512750186-3gkmst5p903358bbdjpu6o9e6i7vdl70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
